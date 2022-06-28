@@ -6,7 +6,7 @@
 
 | Name    | README                               |
 | ------- | ------------------------------------ |
-| Factory | [behavioral/factory/README.md][pldb] |
+| Factory | [behavioral/factory/README.md](pldb) |
 
 #### Behavioral
 
