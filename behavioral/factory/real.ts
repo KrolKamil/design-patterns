@@ -32,4 +32,4 @@ const submitOnboardingFactory = (onboardingType: OnboardingType) => {
   }
 };
 
-submitOnboardingFactory(OnboardingType.SINGLE)("Kamil");
+submitOnboardingFactory(OnboardingType.SINGLE)({ userName: "Kamil" });
