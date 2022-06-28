@@ -4,9 +4,9 @@
 
 #### Creational
 
-| Name    | README                               |
-| ------- | ------------------------------------ |
-| Factory | [behavioral/factory/README.md](pldb) |
+| Name                                    |
+| --------------------------------------- |
+| [Factory](behavioral/factory/README.md) |
 
 #### Behavioral
 
