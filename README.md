@@ -7,6 +7,7 @@
 | Name                          |
 | ----------------------------- |
 | [Factory](behavioral/factory) |
+| [Builder](behavioral/builder) |
 
 #### Behavioral
 
