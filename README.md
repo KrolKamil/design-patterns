@@ -4,10 +4,11 @@
 
 #### Creational
 
-| Name                          |
-| ----------------------------- |
-| [Factory](behavioral/factory) |
-| [Builder](behavioral/builder) |
+| Name                              |
+| --------------------------------- |
+| [Factory](behavioral/factory)     |
+| [Builder](behavioral/builder)     |
+| [Prototype](behavioral/prototype) |
 
 #### Behavioral
 
