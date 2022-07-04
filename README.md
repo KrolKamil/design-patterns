@@ -6,9 +6,10 @@
 
 | Name                              |
 | --------------------------------- |
-| [Factory](behavioral/factory)     |
-| [Builder](behavioral/builder)     |
-| [Prototype](behavioral/prototype) |
+| [Factory](creational/factory)     |
+| [Builder](creational/builder)     |
+| [Prototype](creational/prototype) |
+| [Prototype](singleton/prototype)  |
 
 #### Behavioral
 
